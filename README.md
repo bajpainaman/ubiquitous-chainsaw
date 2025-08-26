@@ -1,3 +1,1 @@
-# docs
-# Tranquility-
 # Tranquility-
