@@ -1,0 +1,107 @@
+[
+  {
+    "owner": "S7vYFFWH6BjJyEsdrPQpqpYTqLTrPRK6KW3VwsJuRaS",
+    "amount": 4202.76966675,
+    "raw": "420276966675",
+    "activeTokens": 7,
+    "recentActivity": 100,
+    "daysSinceLastTx": 0,
+    "suspiciousPatterns": [
+      "10.3% of supply",
+      "Concentrated hourly activity"
+    ],
+    "scores": {
+      "bot": 2,
+      "exchange": 0,
+      "creator": 4
+    },
+    "classification": "TOKEN_CREATOR",
+    "flag": "TOKEN_CREATOR"
+  },
+  {
+    "owner": "FWznbcNXWQuHTawe9RxvQ2LdCENssh12dsznf4RiouN5",
+    "amount": 4099.89802969,
+    "raw": "409989802969",
+    "activeTokens": 3849,
+    "recentActivity": 100,
+    "daysSinceLastTx": 0,
+    "suspiciousPatterns": [
+      "3849 different tokens",
+      "10.0% of supply",
+      "Concentrated hourly activity"
+    ],
+    "scores": {
+      "bot": 2,
+      "exchange": 3,
+      "creator": 4
+    },
+    "classification": "TOKEN_CREATOR",
+    "flag": "TOKEN_CREATOR"
+  },
+  {
+    "owner": "AC5RDfQFmDS1deWZos921JfqscXdByf8BKHs5ACWjtW2",
+    "amount": 3133.15181079,
+    "raw": "313315181079",
+    "activeTokens": 2245,
+    "recentActivity": 100,
+    "daysSinceLastTx": 0,
+    "suspiciousPatterns": [
+      "2245 different tokens",
+      "7.6% of supply",
+      "Concentrated hourly activity"
+    ],
+    "scores": {
+      "bot": 2,
+      "exchange": 3,
+      "creator": 4
+    },
+    "classification": "TOKEN_CREATOR",
+    "flag": "TOKEN_CREATOR"
+  },
+  {
+    "owner": "GHmGCWM4KMhqok3gg4dJw8E72ThL4J4n8vuu4QjFp3rV",
+    "amount": 2492.01769452,
+    "raw": "249201769452",
+    "activeTokens": 18,
+    "recentActivity": 100,
+    "daysSinceLastTx": 2,
+    "suspiciousPatterns": [
+      "6.1% of supply",
+      "Concentrated hourly activity"
+    ],
+    "scores": {
+      "bot": 2,
+      "exchange": 0,
+      "creator": 4
+    },
+    "classification": "TOKEN_CREATOR",
+    "flag": "TOKEN_CREATOR"
+  },
+  {
+    "owner": "GHjM7cwEMx6xQWDUs3Xemp2J6EhpJCXaTb6WQRXB1mR3",
+    "amount": 462.96762653,
+    "raw": "46296762653",
+    "activeTokens": 20294,
+    "recentActivity": 100,
+    "daysSinceLastTx": 0,
+    "suspiciousPatterns": [
+      "20294 different tokens",
+      "Exchange-like portfolio",
+      "Concentrated hourly activity"
+    ],
+    "scores": {
+      "bot": 2,
+      "exchange": 8,
+      "creator": 0
+    },
+    "classification": "EXCHANGE_WALLET",
+    "flag": "EXCHANGE"
+  },
+  {
+    "owner": "2Z7zhqp1eddmHNmEqexftST6DFPWmoL4QqfgiG5uJMJx",
+    "amount": 2245.20524268,
+    "raw": "224520524268",
+    "reason": "Account not found",
+    "flag": "STAGNANT"
+  }
+]

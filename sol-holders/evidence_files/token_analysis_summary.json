@@ -1,0 +1,22 @@
+{
+  "totalHolders": 11214,
+  "totalSupply": 40998.35885356926,
+  "giniCoefficient": 0.987459900798303,
+  "healthScore": 45,
+  "verdict": "⚠️  HIGH RISK",
+  "classification": "WHALE CONTROLLED",
+  "distribution": {
+    "top10Percent": 52.87982599960237,
+    "top1PercentHolders": 113,
+    "top1PercentSupply": 85.20657033301895,
+    "dustAccountPercent": 65.6322454075263
+  },
+  "risks": [
+    "Extreme inequality (Gini > 0.8)",
+    "High farming/bot activity",
+    "Too many mega whales"
+  ],
+  "whaleCount": 56,
+  "megaWhaleCount": 6,
+  "suspiciousClusters": 63
+}
